@@ -18,4 +18,4 @@
 
 ## Contribute
 
-If you want to add/evolve new icons or find errors in the code, please refer to the [How to Contribute](https://github.com/abidalwassie/techstack-generator/blob/master/CONTRIBUTING.md) documentation!
+If you want to add/evolve new icons or find errors in the code, please refer to the [How to Contribute](https://github.com/raptr45/techstack-generator/blob/master/CONTRIBUTING.md) documentation!
